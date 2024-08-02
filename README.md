@@ -1,7 +1,6 @@
-Hi 👋 My name is Ewan Trollip
-=============================
+![WebDevEwan GitHub banner](https://www.webdevewan.com/github-img.png)
 
-Student and Freelance Web Developer
+BSc IT Student and Freelance Web Developer
 -----------------------------------
 
 * 🌍  I'm based in South Africa
