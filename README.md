@@ -1,12 +1,12 @@
 ![WebDevEwan GitHub banner](https://www.webdevewan.com/github-img.png)
 
-BSc IT Student and Freelance Web Developer
+Full Stack Developer
 -----------------------------------
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [WebDevEwan](https://webdevewan.com)
 * ✉️  You can contact me at [ewantrollip@webdevewan.com](mailto:ewantrollip@webdevewan.com)
-* 🚀  I'm currently working on [EFT Toolset](https://eft-toolset.com)
+* 🚀  I'm currently working on [Detweb](https://github.com/WildEyeConservation/Detweb)
 * ⚡  I spend way to much time learning JavaScript
 
 ### Skills
