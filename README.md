@@ -1,22 +1,45 @@
-![WebDevEwan GitHub banner](https://www.webdevewan.com/github-img.png)
+*ewan@github ~ $ cat about.txt*
 
-Full Stack Developer
------------------------------------
+I write software that counts wildlife from the sky.  
+Lead dev on **SurveyScope**, an AI-powered aerial census platform built for WildEye Conservation.  
+React + TypeScript + Python + AWS.  
+Based in South Africa. Full stack developer at Innoventix Consulting.
 
-* 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [WebDevEwan](https://webdevewan.com)
-* ✉️  You can contact me at [ewantrollip@webdevewan.com](mailto:ewantrollip@webdevewan.com)
-* 🚀  I'm currently working on [Detweb](https://github.com/WildEyeConservation/Detweb)
-* ⚡  I spend way to much time learning JavaScript
+---
 
-### Skills
+*ewan@github ~ $ git log --oneline --me*
 
+`a3f91c2` feat: making aerial census software not suck  
+`b82de10` feat: joined Innoventix Consulting + WildEye Conservation  
+`e90b21a` chore: graduated BSc IT cum laude, NWU  
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-</p>
+---
 
+*ewan@github ~ $ cat stack.json*
 
-### Socials
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
 
-<p align="left"> <a href="https://www.github.com/M1NDLE55" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ewan-trollip/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+*ewan@github ~ $ cat now.txt*
+
+**building** [SurveyScope](https://github.com/WildEyeConservation/Detweb)  
+**working** Innoventix Consulting  
+**exploring** Go, terminal tooling  
+
+---
+
+*ewan@github ~ $ cat links.txt*
+
+**portfolio** [webdevewan.com](https://webdevewan.com)  
+**email** [ewantrollip@webdevewan.com](mailto:ewantrollip@webdevewan.com)  
+**linkedin** [ewan-trollip](https://linkedin.com/in/ewan-trollip)  
+
+&nbsp;
+
+<sub>South Africa · conservation tech · full stack</sub>
