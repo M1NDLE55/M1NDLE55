@@ -1,4 +1,3 @@
-I write software that counts wildlife from the sky.  
 Lead dev on [SurveyScope](https://github.com/WildEyeConservation/Detweb), an AI-powered aerial census platform built for WildEye Conservation.  
 React + TypeScript + Python + AWS.
 
