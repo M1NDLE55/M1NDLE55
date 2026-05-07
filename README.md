@@ -1,4 +1,4 @@
-Lead dev on [SurveyScope](https://github.com/WildEyeConservation/Detweb), an AI-powered aerial census platform built for WildEye Conservation.  
+Lead dev on [SurveyScope](https://github.com/WildEyeConservation/Detweb) (aka Detweb), an AI-powered aerial census platform built for WildEye Conservation.  
 React + TypeScript + Python + AWS.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=safari&logoColor=white)](https://webdevewan.com)
